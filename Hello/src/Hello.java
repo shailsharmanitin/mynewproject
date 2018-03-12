@@ -6,4 +6,8 @@ class Hello
        {
        System.out.println("Hello git");
        }
+       for (int i = 0; i < 6; i++) {
+		System.out.println("Hello git2");
+	}
   }
+}
